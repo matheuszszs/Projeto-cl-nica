@@ -29,5 +29,3 @@ Nosso site na prática funciona como um site de clínica padrão, todavia não h
 # Autores
 
 Matheus G. Medeirosi e Gustavo R. Wolschick
-
-https://www.linkedin.com/in/wmazoni
