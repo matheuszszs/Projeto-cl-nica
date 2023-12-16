@@ -15,7 +15,9 @@ Nosso site na prática funciona como um site de clínica padrão, todavia não h
 ![Web 1](https://github.com/matheuszszs/Projeto-cl-nica/assets/134110416/fcd2f741-b753-42f0-a227-a99c69e310bb) ![Web 2](https://github.com/matheuszszs/Projeto-cl-nica/assets/134110416/052b0454-260b-40ca-b08f-2556fb773a27)
 
 ## Layout web (Mostrar um layout do site funcionando no mobile)
-![Mobile 1](link do png do layout)
+
+![Mobile 1](https://github.com/matheuszszs/Projeto-cl-nica/assets/134110416/be4384a9-9ff2-48d0-9060-18e37897570d)
+
 
 # Tecnologias utilizadas
 ## Back end
@@ -26,4 +28,4 @@ Nosso site na prática funciona como um site de clínica padrão, todavia não h
 
 # Autores
 
-Matheus G. Medeirosi e Gustavo R. Wolschick
+Matheus G. Medeiros e Gustavo R. Wolschick
