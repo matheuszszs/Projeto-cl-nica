@@ -11,20 +11,18 @@ O site é uma aplicação full stack web e mobile feito durante o final do segun
 
 Nosso site na prática funciona como um site de clínica padrão, todavia não há nenhuma clínica real sendo usada para o estudo do mesmo, junto disso propósito do site é aprimorar o nosso aprendizado em relação a programação front-end tanto back-end.
 
-## Layout mobile (Mostrar um layout do site funcionando no mobile)
-![Mobile 1](link do png do layout) ![Mobile 2](link do png do layout)
+## Layout mobile (Mostrar um layout do site funcionando na web)
+![Web 1](link do png do layout) ![Web 2](link do png do layout)
 
-## Layout web (Mostrar um layout do site funcionando na web)
-![Web 1](link do png do layout)
-
-![Web 2](link do png do layout)
+## Layout web (Mostrar um layout do site funcionando no mobile)
+![Mobile 1](link do png do layout)
 
 # Tecnologias utilizadas
 ## Back end
-- Java
+- JavaScript
 
 ## Front end
-- HTML / CSS / JS
+- HTML / CSS 
 
 # Autores
 
